@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend developer & security researcher</h3>
 
-- 🔭 I’m currently working on **tlspuffin - TLS Protocol Under FuzzINg**
+- 🔭 I’m currently working on **mapr - Map Rendering Engine**
 
 - 🌱 I’m currently learning **Rust**
 
