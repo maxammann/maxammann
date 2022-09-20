@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend developer & security researcher</h3>
 
-- 🔭 I’m currently working on **maplirbe-rs - Vector Map Rendering Engine**
+- 🔭 I’m currently working on **maplibre-rs - Vector Map Rendering Engine in Rust**
 
 - 🌱 I’m currently learning **Rust**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://maxammann.org/](https://maxammann.org/)
 
-- 💬 Ask me about **React, Software Engineering**
+- 💬 Ask me about **React, Rust, Software Engineering**
 
 - 📫 How to reach me **max@maxammann.org**
 
