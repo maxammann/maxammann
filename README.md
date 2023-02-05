@@ -12,6 +12,3 @@
 - 📫 How to reach me **max@maxammann.org**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxammann&show_icons=true&locale=en" alt="maxammann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxammann&" alt="maxammann" /></p>
-
