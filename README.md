@@ -10,5 +10,3 @@
 - 📝 I regularly write articles on [https://maxammann.org/](https://maxammann.org/)
 
 - 📫 How to reach me **max@maxammann.org**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxammann&show_icons=true&locale=en" alt="maxammann" /></p>
